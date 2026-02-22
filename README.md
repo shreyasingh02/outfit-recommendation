@@ -1,0 +1,1 @@
+A machine learning–based Outfit Recommendation System that suggests visually compatible clothing combinations using color analysis. The application extracts dominant colors from uploaded images with K-Means clustering and evaluates similarity using Euclidean distance, presenting the top matching outfits through an interactive Streamlit interface.
